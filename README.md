@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas Barboza e sou um Analista de Dados com formação em Estatística</p>
+<p align="left">Meu nome é Lucas Barboza, sou um Analista de Dados com formação em Estatística</p>
 
 ###
 
