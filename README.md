@@ -24,6 +24,8 @@
 
 ###
 
+<h2 align="left">Estatísticas</h2>
+
 ###
 
 <div align="center">
