@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Lucas Barboza, sou um estatístico e analista de dados com uma sólida base para lidar com dados e tranforma-los em informação. </p>
+<p align="left">Meu nome é Lucas, sou um estatístico e analista de dados com uma sólida base para lidar com dados e tranforma-los em informação. </p>
 
 ###
 
